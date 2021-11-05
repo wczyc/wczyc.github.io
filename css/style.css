@@ -59,9 +59,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.9;
-  color: #999;
+  color: #99;
   text-align: left;
-  background-color: #fff; }
+  background-color: #000; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -6712,8 +6712,8 @@ article h2.article-title {
   letter-spacing: -1px; }
 
 article p.article-meta {
-  color: #ccc;
-  font-size: 0.8rem; }
+  color: Beige;
+  font-size: 15px; }
 
 /**
 Sidebar
